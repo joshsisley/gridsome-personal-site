@@ -16,6 +16,17 @@
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
+          <h3 class="mb-0">"Google Search" Personal Site</h3>
+          <div class="subheading mb-3">An original personal website.</div>
+          <p>Personal website where the user is taken through a mock Google search of my name. It then shows the results with my experience and projects.</p>
+        </div>
+        <div class="resume-date text-md-right">
+          <a href="http://sisley.tech" target="_blank" class="action-btn">Check it out here!</a>
+        </div>
+      </div>
+
+      <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+        <div class="resume-content">
           <h3 class="mb-0">BrewBettr</h3>
           <div class="subheading mb-3">Software To Make A Brewer’s Life Easier</div>
           <p>A software that is designed to replace the excel spreadsheets that most small breweries use for tracking inventory and creating new batches. This app alleviates the stress and confusion associated with tracking inventory and creating new recipes/batches.</p>
