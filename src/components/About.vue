@@ -6,16 +6,17 @@
         <span class="text-primary">Sisley</span>
       </h1>
       <div class="subheading mb-5">
-        Real Estate Broker · Raleigh/Durham North Carolina ·
+        Full Stack Software Developer · Real Estate Professional ·
         <a
           href="mailto:name@email.com"
         >josh@joshuasisley.com</a>
       </div>
+      <p class="lead mb-5">As a full stack developer with years of experience I create amazing websites and web apps to make the internet a better place. I specialize in high performance SaaS applications, built using the latest cutting edge web development technologies.</p>
       <p
         class="lead mb-5"
-      >With a background in software development, I use my experience to leverage innovative technology along with in-depth market knowledge and stellar customer service, to find you the right home.</p>
+      >On the real estate side, I use my background in software development to leverage innovative technology along with in-depth market knowledge and stellar customer service, to find you the right home.</p>
       <p class="lead mb-5">
-        If you're looking to buy, sell or invest, 
+        If you're looking for an accomplished software engineer or need help with the purchase of a home you've come to the right place,
         <a href="mailto:josh@joshuasisley.com">let's get in touch</a>!
       </p>
       <div class="social-icons">
