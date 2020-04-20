@@ -3,15 +3,18 @@
     <div class="container-fluid p-0">
       <About/>
       <hr class="m-0">
-      <Experience/>
-      <hr class="m-0">
-      <Projects/>
-      <hr class="m-0">
-      <Skills/>
-      <hr class="m-0">
+      <!-- <Experience/> -->
+      <!-- <hr class="m-0"> -->
+      <!-- <Projects/> -->
+      <!-- <hr class="m-0"> -->
+      <!-- <Skills/> -->
+      <!-- <hr class="m-0"> -->
       <!-- <Interests/> -->
-      <hr class="m-0">
+      <!-- <hr class="m-0"> -->
       <!-- <Awards/> -->
+      <Homes/>
+      <!-- <HomeList/> -->
+      <!-- <Resources/> -->
       <Contact/>
     </div>
   </Layout>
@@ -26,6 +29,9 @@ import Interests from "../components/Interests";
 import Awards from "../components/Awards";
 import Contact from "../components/Contact";
 import Projects from "../components/Projects";
+import Resources from "../components/Resources";
+import Homes from "../components/Homes";
+import HomeList from "../components/HomeList";
 
 export default {
   components: {
@@ -35,11 +41,14 @@ export default {
     Skills,
     Interests,
     Awards,
+    Resources,
+    Homes,
+    HomeList,
     Contact
   },
   metaInfo: {
     title: "Joshua Sisley",
-    titleTemplate: "%s - Full Stack JavaScript Developer"
+    titleTemplate: "%s - Raleigh/Durham Real Estate"
   }
 };
 </script>

@@ -17,6 +17,12 @@
           <a class="nav-link" v-on:click.prevent="$scrollTo('#about')">About</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#homes')">Homes</a>
+        </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link" v-on:click.prevent="$scrollTo('#resources')">Resources</a>
+        </li> -->
+        <!-- <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#experience')">Experience</a>
         </li>
         <li class="nav-item">
@@ -24,7 +30,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#skills')">Skills</a>
-        </li>
+        </li> -->
         <!-- <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#interests')">Interests</a>
         </li> -->
