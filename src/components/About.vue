@@ -6,29 +6,29 @@
         <span class="text-primary">Sisley</span>
       </h1>
       <div class="subheading mb-5">
-        Full Stack Software Developer · Real Estate Professional ·
+        Full Stack Software Developer · Freelancer ·
         <a
-          href="mailto:name@email.com"
-        >josh@joshuasisley.com</a>
+          href="mailto:josh@sisley.tech"
+        >josh@sisley.tech</a>
       </div>
       <p class="lead mb-5">As a full stack developer with years of experience I create amazing websites and web apps to make the internet a better place. I specialize in high performance SaaS applications, built using the latest cutting edge web development technologies.</p>
-      <p
+      <!-- <p
         class="lead mb-5"
-      >On the real estate side, I use my background in software development to leverage innovative technology along with in-depth market knowledge and stellar customer service, to find you the right home.</p>
+      >On the real estate side, I use my background in software development to leverage innovative technology along with in-depth market knowledge and stellar customer service, to find you the right home.</p> -->
       <p class="lead mb-5">
-        If you're looking for an accomplished software engineer or need help with the purchase of a home you've come to the right place,
+        If you're looking for an accomplished software engineer,
         <a href="mailto:josh@joshuasisley.com">let's get in touch</a>!
       </p>
       <div class="social-icons">
-        <!-- <a href="https://linkedin.com/in/joshua-sisley" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/joshua-sisley" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
-        </a> -->
-        <!-- <a href="https://github.com/joshsisley" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fab', 'github']"/>
-        </a> -->
-        <a href="https://facebook.com/joshsisleyrealestate" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fab', 'facebook']"/>
         </a>
+        <a href="https://github.com/joshsisley" target="_blank" rel="noopener noreferrer">
+          <font-awesome :icon="['fab', 'github']"/>
+        </a>
+        <!-- <a href="https://facebook.com/joshsisleyrealestate" target="_blank" rel="noopener noreferrer">
+          <font-awesome :icon="['fab', 'facebook']"/>
+        </a> -->
         <a href="https://twitter.com/joshsisley" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'twitter']"/>
         </a>

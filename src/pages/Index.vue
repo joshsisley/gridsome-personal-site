@@ -3,16 +3,16 @@
     <div class="container-fluid p-0">
       <About/>
       <hr class="m-0">
-      <!-- <Experience/> -->
-      <!-- <hr class="m-0"> -->
-      <!-- <Projects/> -->
-      <!-- <hr class="m-0"> -->
-      <!-- <Skills/> -->
+      <Experience/>
+      <hr class="m-0">
+      <Projects/>
+      <hr class="m-0">
+      <Skills/>
       <!-- <hr class="m-0"> -->
       <!-- <Interests/> -->
-      <!-- <hr class="m-0"> -->
       <!-- <Awards/> -->
-      <Homes/>
+      <!-- <Homes/> -->
+      <hr class="m-0">
       <!-- <HomeList/> -->
       <!-- <Resources/> -->
       <Contact/>
