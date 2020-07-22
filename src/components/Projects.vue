@@ -21,7 +21,7 @@
           <p>Personal website where the user is taken through a mock Google search of my name. It then shows the results with my experience and projects.</p>
         </div>
         <div class="resume-date text-md-right">
-          <a href="http://test.sisley.tech" target="_blank" class="action-btn">Check it out here!</a>
+          <a href="https://joshuasisley.com" target="_blank" class="action-btn">Check it out here!</a>
         </div>
       </div>
 
